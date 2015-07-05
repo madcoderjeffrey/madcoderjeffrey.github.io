@@ -22,6 +22,17 @@
 		display: block;
 	}
 
+.img{
+    width: 20em;
+    height: 15em;
+}
+
+.video{
+    width: 20em;
+    height: 15em;
+}
+
+
 #bloglay{
     display: inline;
 }
