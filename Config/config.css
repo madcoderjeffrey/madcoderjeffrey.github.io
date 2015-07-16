@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+img{
+    width: 10em;
+    height: 10em;
+}
+
+h1, p{
+    font-family: Verdana;
+}
