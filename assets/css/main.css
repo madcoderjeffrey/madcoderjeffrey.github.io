@@ -49,6 +49,8 @@
 
 #archive{
  float: left;
+    text-align: left;
+    margin-left: 1%;
 }
 
 	body {

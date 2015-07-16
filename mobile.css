@@ -38,6 +38,8 @@
 
 #archive{
  float: left;
+    text-align: left;
+    margin-left: 1%;
 }
 
 	body {
@@ -2077,7 +2079,7 @@
 
 #blog{
     text-align: left;
-    
+    margin-left: 1%;
 }
 
 #emailform{
