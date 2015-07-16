@@ -2,7 +2,7 @@ function saveOptions() {
     var name = document.getElementById("name");
  
     var options = {
-      "name": name.options[name.selectedIndex].value
+      "name": name.options.value
     }
      
     return options;
